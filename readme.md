@@ -1,7 +1,7 @@
 # My Portafolio
 
 ## Setup
-Download [Node.js](https://nodejs.org/en/download/) 16.0.0.
+Download [Node.js](https://nodejs.org/en/download/) 16.0.0
 Run this followed commands:
 
 ``` bash
